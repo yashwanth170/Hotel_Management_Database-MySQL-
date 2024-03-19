@@ -5,7 +5,7 @@ This repository contains a MySQL database for a hotel management system. The dat
 **Contents:**
 SQL Dump File: The SQL dump file (hotel_database_dump.sql) is included in the repository. You can use this file to import the database schema and sample data into your MySQL environment.
 
-**Database Schema Visualization: **
+** Database Schema Visualization:**
  Schema.png image provides a visual representation of the database schema, making it easier to understand the structure and relationships between different tables.
 
 **Features:**
